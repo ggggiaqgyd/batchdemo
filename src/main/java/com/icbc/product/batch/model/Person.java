@@ -2,7 +2,7 @@ package com.icbc.product.batch.model;
 
 
 /**
- * 写点注释吧
+ * 写点注释吧,提交远程
  */
 public class Person {
 
