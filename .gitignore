@@ -19,5 +19,18 @@
 *.tar.gz
 *.rar
 
+# forder
+.project
+.settings/
+.prefs
+.pydevproject
+.idea/
+.idea
+.DS_Store
+.cache
+
+*.pyc
+*.html
+*.xlm
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
