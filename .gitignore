@@ -25,6 +25,7 @@
 .prefs
 .pydevproject
 .idea/
+target/
 .idea
 .DS_Store
 .cache
