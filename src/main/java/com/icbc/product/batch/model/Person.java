@@ -1,6 +1,9 @@
 package com.icbc.product.batch.model;
 
 
+/**
+ * 写点注释吧
+ */
 public class Person {
 
     private String lastName;
